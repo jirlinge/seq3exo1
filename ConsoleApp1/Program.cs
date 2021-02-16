@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int a = 5;
-            int b = 4;
+            int b = 5;
             int c = a + b;
             Console.WriteLine("la premiere note est de "+a);
             Console.WriteLine("la premiere note est de " + b);
